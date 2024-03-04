@@ -46,5 +46,5 @@ def chat_bot():
 
 
 
-if __name__=='main_':
+if __name__=='__main__':
     chat_bot()
